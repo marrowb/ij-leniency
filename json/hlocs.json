@@ -1,0 +1,4510 @@
+{
+    "AAD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AAP": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AAR": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ABD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ABQ": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ABX": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ACC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ACD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ADA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ADC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ADE": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ADJ": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ADL": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ADM": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ADN": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ADT": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ADV": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ADW": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AED": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AEZ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AFD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AFP": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AGA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AGD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AHY": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AIR": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AJD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AKA": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AKD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ALA": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ALD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ALI": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ALO": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ALW": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AMD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ANC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ANJ": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ANL": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ANM": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AOD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "APC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "APD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AQD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ARA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ARB": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ARC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ARD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ARF": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ARG": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ARH": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ARI": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ARJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ARK": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ARN": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ARP": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ARQ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ARS": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ARU": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ARV": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ARW": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ARX": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ARY": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ARZ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ASD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ASJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ATD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ATJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ATL": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ATN": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ATP": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ATS": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 1,
+        "port_of_entry": 0
+    },
+    "AUB": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AUD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AUR": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AVD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AW1": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AW2": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AW3": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AWD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AWH": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AXD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AYD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "AZD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BAC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BAD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BAJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BAL": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BAR": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BAX": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BAY": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BCI": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BCJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BCS": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BDC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BDD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 1,
+        "port_of_entry": 0
+    },
+    "BDH": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BDJ": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BDT": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BED": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BER": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BET": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BFL": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BHH": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BIG": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BJD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BJV": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BKC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BLA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 1
+    },
+    "BLB": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BLD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BLJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BLM": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BMF": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BNC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BOI": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BOP": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BOS": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BRD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BRI": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BRJ": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BRO": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BRS": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BTC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BTD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BTF": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BTV": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BUF": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BUJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "BYH": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CAC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CAL": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CAM": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CAN": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CAR": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CCA": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CCF": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CCI": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CCJ": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CDF": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CEL": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CEN": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CFC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CFS": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CHA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CHD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CHI": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CHJ": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CHL": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CHM": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 1
+    },
+    "CHP": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CHR": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CHV": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CIB": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CIC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CIF": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CIN": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CIT": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CIX": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CJD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CKW": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CLD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CLE": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CLI": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CLJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CLM": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CLN": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CNH": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CNJ": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CNS": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CNT": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "COF": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CON": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CRC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CRD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CRG": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CRP": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CRS": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CTJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CTU": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "CUB": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DAD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DAL": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DAN": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DAR": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DAT": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 1,
+        "port_of_entry": 0
+    },
+    "DBC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DBD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DBS": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DCA": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DCC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DCI": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DCJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DCV": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DDJ": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DEA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DED": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DEJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DEL": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DEN": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DET": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DIL": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DJD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DLH": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DNF": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DNJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DON": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DOT": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DOU": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DRD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DRI": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DSS": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DTJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DTX": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "DVC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "EAF": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "EAT": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 1,
+        "port_of_entry": 0
+    },
+    "EAZ": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "EBS": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "EDA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "EDN": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "EGP": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "EHD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "EJD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ELC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ELL": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ELO": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ELP": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ELT": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ELV": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ELZ": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ENP": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ENW": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "EOC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "EPD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "EPJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ERD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ESA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ESS": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ESX": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "FCA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "FCD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "FCI": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "FCO": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "FER": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "FLG": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "FLO": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "FLP": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "FLR": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "FLX": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "FPC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "FPH": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "FPM": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "FRD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "FRE": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "FSP": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "FTW": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "FUM": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "FVD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "GAL": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "GCD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "GCP": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "GEO": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "GHN": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "GIA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "GJF": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "GRD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "GUA": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HAD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HAG": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HAM": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HAR": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HAS": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HAW": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HCD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HDQ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HDS": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HDT": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HEL": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HEN": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HFD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HFU": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HGP": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HHJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HIN": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HJV": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HLG": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HND": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HOD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HON": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HOU": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HRD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HSG": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HTJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HUD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HUG": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HUN": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HUT": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HYA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HYJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "HYX": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "IAD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "IDA": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "IDJ": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "IES": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "IMJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "IMP": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "IOW": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "IPD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "IRD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "IRN": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "IYC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "JAM": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "JCD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "JCF": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "JCJ": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "JDS": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "JNA": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "JNC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "JPC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "JRD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "JSA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "JUD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "JUV": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "KAD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "KAJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "KAN": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "KDC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "KEN": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "KRN": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "KRO": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "KSP": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LA3": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LAC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LAD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LAF": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LAJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LAN": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LAR": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LAT": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LCC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LCP": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LEH": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LEV": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LEW": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LEX": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LFB": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LGD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LIH": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LJD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LJN": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LNA": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LOJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LOM": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LOP": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LOS": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LOU": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LRD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LRO": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LSF": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LSJ": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LTF": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LVG": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "LVJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MAE": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MAR": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MAS": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MAT": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 1,
+        "port_of_entry": 0
+    },
+    "MAX": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MCC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MCD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MCF": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MCH": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MCJ": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MCM": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MDA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MDC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MEJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MEM": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MEN": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MET": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MHD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MIA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MIC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MIL": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MIN": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MIS": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MJD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MLD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MNT": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MOD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MON": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MOS": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MOU": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MPB": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MPL": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 1
+    },
+    "MPP": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MTJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MTX": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "MVD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NAF": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NAR": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NAT": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 1,
+        "port_of_entry": 0
+    },
+    "NCD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NDD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 1,
+        "port_of_entry": 0
+    },
+    "NEB": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NEJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NES": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NEV": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NEW": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NFC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NGH": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NHA": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NIA": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NLA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NLT": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 1,
+        "port_of_entry": 0
+    },
+    "NMD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NMJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NMS": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NMX": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NNJ": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NOA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NOC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NOD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NOJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NOL": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NOO": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NOR": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NWD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NYA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NYB": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NYC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NYD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NYE": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NYJ": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NYV": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "NYX": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "OAK": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "OAR": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "OAV": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "OCD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "OHO": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "OIN": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "OKC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "OKD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "OKJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "OKL": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "OKT": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "OMA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "OMD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "OMJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "OPP": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ORC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ORI": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ORL": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "OTF": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "OTM": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "OTO": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "OTY": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PA2": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PAC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PAD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PAH": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PAJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PDC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PDJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PDN": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PDT": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PDX": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PEN": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PER": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PHA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PHI": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PHJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PHO": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PHW": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PID": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PIJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PIK": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PIS": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PIT": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PLE": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PLY": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "POE": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 1
+    },
+    "POK": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "POL": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "POO": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "POR": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PRC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PSD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PST": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "PTF": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "RA3": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "RAY": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "RCC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "RCH": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "REI": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "REJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "REL": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "REN": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "RG1": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "RG2": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "RG3": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "RG4": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "RG5": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "RHD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "RHO": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "RIC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ROB": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "RVS": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "RYN": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SAD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SAI": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SAJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SAL": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SAN": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SAR": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SAT": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 1,
+        "port_of_entry": 0
+    },
+    "SCD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SCJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SDC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SDE": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SDJ": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SDT": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 1,
+        "port_of_entry": 0
+    },
+    "SEA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SEC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SEJ": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SER": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SFA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SFB": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SFC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SFD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SFJ": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SFM": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SFR": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SFV": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SFX": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SHA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SHD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SHE": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SIH": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SIN": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SJA": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SJD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SJN": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SJR": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SKY": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SLC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SLD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SLI": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SLJ": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SM1": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SM2": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SMO": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SNA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SNC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SND": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SNJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SNL": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SNQ": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SNS": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SNV": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SNX": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SOC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SOD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SOM": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SP1": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SPD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SPT": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SSL": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "STA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "STC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "STD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "STL": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "STX": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SUC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SUF": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SWC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SWK": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SWM": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SWQ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SWZ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "SYP": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "TAC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "TAD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 1,
+        "port_of_entry": 0
+    },
+    "TAF": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "TAL": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "TDC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "TDF": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "TDG": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "TDW": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "TEN": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "TGK": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "TIN": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "TIP": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "TRN": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "TUC": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "TUJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "TUM": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "TUP": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "TUS": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ULS": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "USG": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "USR": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "UST": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "VAT": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 1,
+        "port_of_entry": 0
+    },
+    "VBC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "VHC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "VIC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "VIR": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "VJD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "VMN": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "VMS": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "VMT": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "VNJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "VNS": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "VOC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "VSJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "VUA": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "WAD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "WAF": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "WAJ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "WAL": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "WAS": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "WCC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "WCD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "WCF": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "WDA": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 1,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "WEN": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "WIN": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "WIS": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "WJD": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 1,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "WLC": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "WNN": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "WSH": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "WSI": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "WTD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "WVA": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "WYN": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "WYO": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "YBS": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "YGD": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "YOR": {
+        "detained_docket": 1,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "YYY": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    },
+    "ZZZ": {
+        "detained_docket": 0,
+        "asylum_rule_docket": 0,
+        "juvenile": 0,
+        "dedicated_docket": 0,
+        "port_of_entry": 0
+    }
+}

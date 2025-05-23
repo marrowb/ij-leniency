@@ -1,0 +1,1514 @@
+{
+    "(212)(a)(03)(E)(i  )(   )": {
+        "description": "Commission of Acts of Torture or Extrajudicial Killings",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "(212)(a)(03)(E)(iii)(   )": {
+        "description": "Commission of Acts of Torture or Extrajudicial Killings",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "(212)(a)(06)(i)(   )(   )": {
+        "description": "None",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "(212)(a)(07)(A)(   )(   )": {
+        "description": "None",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "(212)(a)(07)(B)(   )(   )": {
+        "description": "None",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "<A>": {
+        "description": "TEST",
+        "inadmissible": 0,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212(a)(03)(E)(iii)(   )": {
+        "description": "None",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "212(a)(06)(i)(   )(   )": {
+        "description": "None",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212(a)(07)(A)(   )(   )": {
+        "description": "None",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212(a)(07)(B)(   )(   )": {
+        "description": "None",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212(a)(3)(E)(iii) ": {
+        "description": "Commission of Acts of Torture or Extrajudicial Killings",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "212a01": {
+        "description": "Health & Related Grounds",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a01Ai": {
+        "description": "Communicable Disease Of Public Health Significance",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a01Aii": {
+        "description": "Vaccinations",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a01Aii I": {
+        "description": "Physical or Mental disorder",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a01Aii II": {
+        "description": "Physical or mental disorder and a history of behavior",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a01Aiii": {
+        "description": "Drug abuser or addict",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "drug infraction"
+    },
+    "212a01AiiiI": {
+        "description": "Physical or Mental Disorder",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a01AiiiII": {
+        "description": "Physical or Mental Disorder and a History of Behavior",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a01Aiv": {
+        "description": "Drug Abuser or Drug Addict",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "drug infraction"
+    },
+    "212a02": {
+        "description": "Criminal and Related Grounds",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "criminal infraction"
+    },
+    "212a02Ai  I": {
+        "description": "Crimes involving moral turpitude",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "criminal infraction"
+    },
+    "212a02Ai  II": {
+        "description": "Controlled Substance Violation",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "drug infraction"
+    },
+    "212a02B": {
+        "description": "Multiple Criminal Convictions",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "criminal infraction"
+    },
+    "212a02C": {
+        "description": "Controlled substance traffickers",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "drug infraction"
+    },
+    "212a02Ci": {
+        "description": "Drug Traffickers",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "drug infraction"
+    },
+    "212a02Cii": {
+        "description": "Spouse or Child Obtaining any Benefit from Illicit Activity by an inadmissible Alien",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a02Di": {
+        "description": "Prostitution and Commercialized Vice",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "criminal infraction"
+    },
+    "212a02Dii": {
+        "description": "Import of prostitutes",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "criminal infraction"
+    },
+    "212a02Diii": {
+        "description": "Engage in Other Unlawful Commercialized Vice",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "criminal infraction"
+    },
+    "212a02E": {
+        "description": "Certain aliens involved in serious criminal activity who have asserted immunity from prosecution",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "criminal infraction"
+    },
+    "212a02G": {
+        "description": "Violation of Religious Freedom",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a02Hi": {
+        "description": "Significant Traffickers in Persons",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "criminal infraction"
+    },
+    "212a02Hii": {
+        "description": "Beneficiaries of Trafficking",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "criminal infraction"
+    },
+    "212a02Ii": {
+        "description": "Alien who is engaged or seeks to enter the U.S. to engage in Money Laundering",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "criminal infraction"
+    },
+    "212a02Iii": {
+        "description": "Alien who has been a knowing aider, abettor, assister, conspirator or colluder with others in an offense relating to money laundering",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "criminal infraction"
+    },
+    "212a03": {
+        "description": "Security and Related Grounds",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "212a03Ai": {
+        "description": "Security and Related Grounds.  Any activity to violate any law relating to espionage or sabotage",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "212a03Ai  I": {
+        "description": "Any activity to violate and law relating to Espionage/Sabatage",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "212a03Ai  II": {
+        "description": "Export of Goods, Technology, or Sensitive Information",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "212a03Aii": {
+        "description": "Any other unlawful activity",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a03Aiii": {
+        "description": "Any activity opposing, controlling, overthrowing the U.S. Government by Violence or other unlawful means",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "212a03Bi  I": {
+        "description": "Engaged in Terrorist Activities",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "212a03Bi  II": {
+        "description": "Likely to Engage in any Terrorist Activity",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "212a03Bi  III": {
+        "description": "Show intention to cause death, serious bodily harm or incited terrorist activity",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "212a03Bi  IV": {
+        "description": "Representative of Foreign Terrorist Organization",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "212a03Bi  V": {
+        "description": "Member of Foreign Terrorist Organization IAW Sec. 219",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "212a03Bi  VI": {
+        "description": "Use of alien's position of prominence within any country to endorse or espouse terrorist activity",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "212a03Bi  VII": {
+        "description": "Alien is the spouse or child of an alien who is inadmissable under this section",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "212a03Ci": {
+        "description": "Foreign Policy Considerations.",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a03Di": {
+        "description": "Membership in Totalitarian Party",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "212a03Ei": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "212a03Ei  I": {
+        "description": "Participation in Nazi Persecutions of Genocide.",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "212a03Ei  II": {
+        "description": "Participation with any government in any area occupied by the Military Forces of the Nazi government of Germany",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "212a03Ei  III": {
+        "description": "Participation with any government established with the assistance of the Nazi government",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "212a03Ei  IV": {
+        "description": "Participation with any government which was an ally of the Nazi Government",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "212a03Eii": {
+        "description": "Participation in Genocide",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "212a03Eiii   ": {
+        "description": "Commission of Acts of Torture or Extrajudicial Killings",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "212a03F": {
+        "description": "Association with Terrorist Organizations",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "national security infraction"
+    },
+    "212a04": {
+        "description": "Public Charge under section 212(a)(4)",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a04A": {
+        "description": "Any alien who is likely to become a public charge",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a04C": {
+        "description": "Family sponsored immigrants",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a04D": {
+        "description": "Certain employment-based immigrants",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a05": {
+        "description": "Labor Certification and Licensing Requirements under section 212 (a) (5)",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a05A": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a05Ai": {
+        "description": "Failure to meet labor certification requirements",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a05B": {
+        "description": "Failure to meet licensing requirements for medical doctors",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a05C": {
+        "description": "Failure to meet certification requirement for Health Care Workers",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a06": {
+        "description": "Illegal entrants and Immigration Violators under section 212 (a) (6)",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a06A": {
+        "description": "Alien previously deported",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a06Ai": {
+        "description": "Alien in U.S. without Admission or Paroled",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a06B": {
+        "description": "Failure to Attend a Removal Proceeding",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a06Bi": {
+        "description": "Certain aliens previously removed.  Any alien who has been arrested and deported",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a06Bii": {
+        "description": "Any alien who has fallen in distress and has been removed pursuant to this or any other act",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a06Biii": {
+        "description": "Any alien who has been remoded as an alien enemy",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a06Biv": {
+        "description": "Any alien who has been removed at Government expense in lieu of deportation pursuant to section 242(b)",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a06Ci": {
+        "description": "Fraud or willful misrepresentation to procure a visa, documentation or admission into the U.S.",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a06Cii": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a06Cii I": {
+        "description": "False claim to U.S. citizenship",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a06D": {
+        "description": "Stowaways",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a06E": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a06Ei": {
+        "description": "Smugglers",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a06F": {
+        "description": "Subject of Civil Penalty.  Any alien who is the subject of a final order for violation of section 274(c)",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a06Fi": {
+        "description": "Subject of Civil Penalty for Document Fraud",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a06G": {
+        "description": "Student Visa Abusers",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a06i      ": {
+        "description": "None",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a07": {
+        "description": "Documentation Requirements under section 212 (a)(7)",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a07A": {
+        "description": "None",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a07Ai  I": {
+        "description": "No valid immigrant visa",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a07Ai  II": {
+        "description": "Immigrant whose visa was improperly issued at the time of admission",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a07B": {
+        "description": "None",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a07Bi  I": {
+        "description": "Non-immigrant not in Possession of a passport valid for at least 6 months from the date the Initial Admission expires",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a07Bi  II": {
+        "description": "Non-immigrant not in Possession of Valid non-immigrant Visa or Border Crossing Card at the time of application for admission",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a08": {
+        "description": "Ineligible for Citizenship under section 212 (a)(8)",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a08A": {
+        "description": "Alien Permanently Ineligible for Citizenship",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a08B": {
+        "description": "Draft Evaders",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a08Ci": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a09": {
+        "description": "Applicants previously removed or unlawfully present under section 212 (a)(9)",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a09A": {
+        "description": "Practicing Polygamists",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a09Ai": {
+        "description": "Arriving Alien who seeks admission within 5 years of a removal order or within 20 years of a second or subsequent removal",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a09Aii": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a09Aii I": {
+        "description": "Arriving Alien who has been ordered removed under section 240 or any other provision of law",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a09Aii II": {
+        "description": "Alien departed the U.S. with Order of Removal and seeks readmission within 10 years of the date of such departure or removal, or within 20 years of a second or subsequent removal",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a09B": {
+        "description": "Guardian required to accompany excluded alien",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a09Bi  I": {
+        "description": "Alien unlawfully present in the U.S. for more than 180 days but less than 1 year, voluntarily departed the U.S. prior to proceedings commencement and seeks admission within 3 years of the alien's departure or removal date",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a09Bi  II": {
+        "description": "Alien unlawfully present in the U.S. for 1 year or more, and who again seeks admission within 10 years of the date of such alien's departure or removal from the U.S., is inadmissable",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a09Ci": {
+        "description": "International child abduction",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a09Ci  I": {
+        "description": "Alien unlawfully present in the U.S. for an aggregate period of more than one year",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a09Ci  II": {
+        "description": "Removal that Occurred before,on, or after 4/1/97",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a10": {
+        "description": "Miscellaneous Grounds under section 212 (a) (10)",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a10A": {
+        "description": "Practicing Polygamists",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a10B": {
+        "description": "Guardian required to accompany helpless applicant",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a10Ci": {
+        "description": "International Child Abduction",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a10Cii": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a10D": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a10E": {
+        "description": "Former Citizens who renounced citizenship to avoid paying taxes.  Classes of Deportable Aliens under Sec. 237 (a)",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a11": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a12": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a13": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a14": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a15": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a16": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a17": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a18": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a19": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a20": {
+        "description": "No valid immigrant visa",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a21": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a22": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a23": {
+        "description": "Convicted of a marijuana violation",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "drug infraction"
+    },
+    "212a24": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a25": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a26": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a27": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a28": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a29": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a2G": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a30": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a31": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a32": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a33": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "212a5": {
+        "description": "",
+        "inadmissible": 1,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "2153a": {
+        "description": "Departure Control Case",
+        "inadmissible": 0,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "2153b": {
+        "description": "Departure Control Case",
+        "inadmissible": 0,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "2153c": {
+        "description": "Departure Control Case",
+        "inadmissible": 0,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "2153d": {
+        "description": "Departure Control Case",
+        "inadmissible": 0,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "2153e": {
+        "description": "Departure Control Case",
+        "inadmissible": 0,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "2153f": {
+        "description": "Departure Control Case",
+        "inadmissible": 0,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "2153g": {
+        "description": "Departure Control Case",
+        "inadmissible": 0,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "2153h": {
+        "description": "Departure Control Case",
+        "inadmissible": 0,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "2153i": {
+        "description": "Departure Control Case",
+        "inadmissible": 0,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "2153j": {
+        "description": "Departure Control Case",
+        "inadmissible": 0,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "2153k": {
+        "description": "Departure Control Case",
+        "inadmissible": 0,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "237(a)(02)(A)(i  )(I  )": {
+        "description": "None",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "237(a)(4)(E) ": {
+        "description": "Recipient of Military-Type Training",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "national security infraction"
+    },
+    "237a01A": {
+        "description": "Inadmissible Aliens",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "237a01B": {
+        "description": "Any Alien present in violation of the act",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "237a01Ci": {
+        "description": "Non-immigrant status violators.  Any alien who was admitted as a non-immigrant and failed to maintain that status.",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "237a01Cii": {
+        "description": "Violators of Conditions of Entry according to section 212(g)",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "237a01Di": {
+        "description": "Termination of Conditional Permanent Residence",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "237a01Ei": {
+        "description": "Smuggling (of aliens by another alien)",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "237a01Gi": {
+        "description": "Marriage Fraud",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "237a01Gii": {
+        "description": "Alien refused or failed to fulfill marriage agreement",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "237a02Ai": {
+        "description": "Crimes of moral turpitude",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "criminal infraction"
+    },
+    "237a02Ai  I  ": {
+        "description": "None",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "criminal infraction"
+    },
+    "237a02Aii": {
+        "description": "Convicted of two or more crimes involving moral turpitude",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "criminal infraction"
+    },
+    "237a02Aiii": {
+        "description": "Convicted of Aggravated Felony",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "criminal infraction"
+    },
+    "237a02Aiv": {
+        "description": "Conviction relation to High Speed Flight from an immigrant checkpoint",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "237a02Av": {
+        "description": "Failure to Register as a Sex Offender",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "criminal infraction"
+    },
+    "237a02Bi": {
+        "description": "Controlled Substance Conviction",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "drug infraction"
+    },
+    "237a02Bii": {
+        "description": "Narcotic/drug addict or drug abuser",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "drug infraction"
+    },
+    "237a02C": {
+        "description": "Convicted of Certain Firearm Offenses",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "criminal infraction"
+    },
+    "237a02Di": {
+        "description": "Any conviction relating to Espionage, Sabotage, Treason or Sedition for which a term of 5 or more years of imprisonment may be imposed",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "national security infraction"
+    },
+    "237a02Dii": {
+        "description": "Any offense under Sec. 871/960 of Title 18 U.S.C.",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "criminal infraction"
+    },
+    "237a02Diii": {
+        "description": "A Violation of the Military Selective Service Act",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "237a02Div": {
+        "description": "A Violation of Sec. 215/278 of this Act",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "237a02Ei": {
+        "description": "Crimes of Domestic Violence, Stalking, Child Abuse, child neglect, or child abandonment",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "criminal infraction"
+    },
+    "237a02Eii": {
+        "description": "Violators of Protective Orders",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "criminal infraction"
+    },
+    "237a02F": {
+        "description": "TRAFFICKING",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "criminal infraction"
+    },
+    "237a03A": {
+        "description": "Change of Address",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "237a03Bi": {
+        "description": "Any alien convicted under Sec. 266 of this Act of Sec. 36(c) of the Alien Registration Act",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "237a03Bii": {
+        "description": "Violation of, Attempt or Conspiracy to Violate the Foreign Agents Registration Act",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "237a03Biii": {
+        "description": "Violation of, Attempt or Conspiracy to Violate, section 1546 of title 18, U.S. code (relating to fraud and misuse of visas, permits and other entry documents)",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "237a03Ci": {
+        "description": "Any alien with a Final Order for Document Fraud in violation of Sec. 247C, is deportable",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "237a03D": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "237a03Di": {
+        "description": "False claim to U.S. citizenship",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "237a04Ai": {
+        "description": "Any alien who has engaged, is engaged, or at anytime after admission engages in Espionage, Sabotage, or tries to violate or evade any law prohibiting the export from the U.S. of goods, Technology or Other Sensitive Information",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "national security infraction"
+    },
+    "237a04Aii": {
+        "description": "Any other criminal activity which endangers public safety or national security",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "national security infraction"
+    },
+    "237a04Aiii": {
+        "description": "Any activity a purpose of which is the opposition to, or the control or overthrow of, the Government of the U.S. by force, violence or other unlawful means",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "national security infraction"
+    },
+    "237a04B": {
+        "description": "Terrorists Activities",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "national security infraction"
+    },
+    "237a04Ci": {
+        "description": "Any alien who poses serious adverse foreign policy consequences for the U.S.",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "237a04D": {
+        "description": "Participation in Nazi Persecution, Genocide or Commission of any Act of Torture or Extrajudicial Killing",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "national security infraction"
+    },
+    "237a04E": {
+        "description": "Recipient of Military-Type Training",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "national security infraction"
+    },
+    "237a05": {
+        "description": "Public Charge",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "237a06": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "237a06A": {
+        "description": "Unlawful Voters",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "237s02AiI": {
+        "description": "None",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a01": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a01A": {
+        "description": "Excludable at time of entry or adjustment of status or violates status",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a01B": {
+        "description": "Entered without inspection",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a01Ci": {
+        "description": "Non-immigrant status violators",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a01Cii": {
+        "description": "Violators of Conditions of Entry",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a01Di": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a01Ei": {
+        "description": "Smuggling",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a01F": {
+        "description": "Failure to maintain employment",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a01Gi": {
+        "description": "Marriage Fraud",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a01Gii": {
+        "description": "Alien has failed or refused to fulfill the alien's marital agreement",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a02": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a02Ai": {
+        "description": "Crimes of Moral Turpitude",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "criminal infraction"
+    },
+    "241a02Aii": {
+        "description": "Convicted of two or more crimes involving moral turpitude",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "criminal infraction"
+    },
+    "241a02Aiii": {
+        "description": "Convicted of Aggravated Felony",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "criminal infraction"
+    },
+    "241a02Bi": {
+        "description": "Controlled Substance Conviction",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "drug infraction"
+    },
+    "241a02Bii": {
+        "description": "Drug Abuser and Addicts",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "drug infraction"
+    },
+    "241a02C": {
+        "description": "Convicted of Firearm Violation",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "criminal infraction"
+    },
+    "241a02Di": {
+        "description": "Miscellaneous Crimes relating to espionage, sabotage, treason and sedition",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "national security infraction"
+    },
+    "241a02Dii": {
+        "description": "Any offense under section 871 or 960 of title 18, U.S. Code",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "criminal infraction"
+    },
+    "241a02Diii": {
+        "description": "A violation of the Military Service Act or Trading with Enemy Act",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a02Div": {
+        "description": "Aliens convicted of violations of sections 215 or 278",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a02Ei": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a03": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a03A": {
+        "description": "Failure to notify change of address",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a03Bi": {
+        "description": "Failure to register or falsification of documents.  Alien convicted under section 266(c) of this Act or under section 36(c) of the Alien Registration Act,  1940",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a03Bii": {
+        "description": "Alien convicted of a violation of the Foreign Agents Registration Act of 1938",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a03Biii": {
+        "description": "Alien convicted of a violation of section 1546, title 18, U.S. Code (relating to fraud and misue of visas, permits, and other entry documents",
+            "inadmissible": 0,
+            "deportable": 1,
+            "category": "immigration infraction"
+    },
+    "241a03C": {
+        "description": "Document Fraud.  Any alien who is the subject of a final order for violation of section 274C is deportable",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a04": {
+        "description": "Crime involving moral turpitude",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "criminal infraction"
+    },
+    "241a04Ai": {
+        "description": "Engaged in violation or evasion of law relating to prohibited goods",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a04Aii": {
+        "description": "Criminal activity which endangers public safety or national security",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "national security infraction"
+    },
+    "241a04Aiii": {
+        "description": "Any activity that has a purpose the opposition to, or the control or overthrow of the U.S. government by force, violence, or other unlawful means, is deportable",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "national security infraction"
+    },
+    "241a04B": {
+        "description": "Terrorist Activities",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "national security infraction"
+    },
+    "241a04Ci": {
+        "description": "Foreign Policy.  Any alien whose presence or activities in the U.S. would have potentially serious adverse foreign policy consequences for the U.S.",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a04D": {
+        "description": "Assisted in Nazi persecution or engaged in genocide",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "national security infraction"
+    },
+    "241a05": {
+        "description": "Public Charge",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a06": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a07": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a08": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a09": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a10": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a11": {
+        "description": "Convicted of a controlled substance violation",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "drug infraction"
+    },
+    "241a12": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a13": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a14": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a15": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a16": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a17": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a18": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a19": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a4A": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a4B": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "241a9B": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 1,
+        "category": "immigration infraction"
+    },
+    "242f00": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "242fXX": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 0,
+        "category": "immigration infraction"
+    },
+    "246": {
+        "description": "",
+        "inadmissible": 0,
+        "deportable": 0,
+        "category": "immigration infraction"
+    }
+}
