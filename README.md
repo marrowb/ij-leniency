@@ -1,18 +1,22 @@
 # IJ Random Assignment
+Probably best to start by reading the full paper: [IJ_Leniency_in_Asylum_Outcomes.pdf]("./IJ_Leniency_in_Asylum_Outcomes.pdf").
 
 ## Paper Summary
 This research examines the randomness of immigration judge (IJ) assignment in US asylum cases and its impact on asylum outcomes. The study finds that while judge assignment is not purely random, it is systematically influenced by administrative factors related to caseload distribution. These scheduling controls significantly alter estimates of judge-specific leniency, suggesting that traditional assessments based solely on approval rates may mischaracterize judges as unusually strict or lenient. The research demonstrates that accounting for these administrative selection mechanisms is crucial for accurately evaluating judicial behavior in asylum adjudication.
 
 ## File Guide
-- `IJ_Leniency_in_Asylum_Outcomes.pdf` - Full research paper
-- `data.zip` - Contains all datasets used in the analysis:
+- [IJ_Leniency_in_Asylum_Outcomes.pdf]("./IJ_Leniency_in_Asylum_Outcomes.pdf") - Full research paper
+- [ data.zip ]("./data.zip") - Contains all datasets used in the analysis:
   - Scheduling records for Houston S. Gessner Court (2022-2025)
   - Asylum application decisions with scheduling controls for Houston, Boston, Chicago, and Miami courts
-- `figures/` - Contains all visualizations used in the paper
-- `json/` - Reference data and lookup tables
-- `stata-checks/` - Stata code for validation checks
-- `code_key.md` - Full code key for the EOIR Database
-- `*.ipynb` - Jupyter notebooks for data generation and analysis
+- [ figures/ ](./figures/) - Contains all visualizations used in the paper
+- [ json/ ](./json/) - Reference data and lookup tables
+- [ code_key.md ]("./code_key.md") - Full code key for the EOIR Database
+- [Scheduling Dataset Generator]("./generate_scheduling_dataset.ipynb")
+- [Application Dataset Generator]("./generate_asylum_application_data.ipynb")
+- [Scheduling Regressions]("./scheduling_regressions.ipynb")
+- [ stata-checks/ ]("./stata-checks/") - STATA code for validation checks. Application regressions are run in STATA.
+
 
 # IJ Random Assignment
 This is the data used for the analysis in my paper ["IJ Leniency in Asylum Outcomes"](IJ_leniency_in_Asylum_Outcomes.pdf).
