@@ -18,9 +18,6 @@ This research examines the randomness of immigration judge (IJ) assignment in US
 - [ stata-checks/ ]("./stata-checks/") - STATA code for validation checks. Application regressions are run in STATA.
 
 
-# IJ Random Assignment
-This is the data used for the analysis in my paper ["IJ Leniency in Asylum Outcomes"](IJ_leniency_in_Asylum_Outcomes.pdf).
-
 # Data
 There are two types of data schemas here. 
 1. Scheduling records for Houston S. Gessner Court from February 11, 2022 through February 28, 2025.
