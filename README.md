@@ -1,4 +1,20 @@
 # IJ Random Assignment
+
+## Paper Summary
+This research examines the randomness of immigration judge (IJ) assignment in US asylum cases and its impact on asylum outcomes. The study finds that while judge assignment is not purely random, it is systematically influenced by administrative factors related to caseload distribution. These scheduling controls significantly alter estimates of judge-specific leniency, suggesting that traditional assessments based solely on approval rates may mischaracterize judges as unusually strict or lenient. The research demonstrates that accounting for these administrative selection mechanisms is crucial for accurately evaluating judicial behavior in asylum adjudication.
+
+## File Guide
+- `IJ_Leniency_in_Asylum_Outcomes.pdf` - Full research paper
+- `data.zip` - Contains all datasets used in the analysis:
+  - Scheduling records for Houston S. Gessner Court (2022-2025)
+  - Asylum application decisions with scheduling controls for Houston, Boston, Chicago, and Miami courts
+- `figures/` - Contains all visualizations used in the paper
+- `json/` - Reference data and lookup tables
+- `stata-checks/` - Stata code for validation checks
+- `code_key.md` - Full code key for the EOIR Database
+- `*.ipynb` - Jupyter notebooks for data generation and analysis
+
+# IJ Random Assignment
 This is the data used for the analysis in my paper ["IJ Leniency in Asylum Outcomes"](IJ_leniency_in_Asylum_Outcomes.pdf).
 
 # Data
